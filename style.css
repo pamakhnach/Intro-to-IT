@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    margin: 20px;
+    padding: 4px;
+}
+
+.question__list {
+    margin: 50px;
+}
+
+.question {
+    padding: 20px;
+}
+
+.option__list  li {
+    list-style-type: none;
+    padding: 5px 10px;  
+}
+
+.option__list input {
+    margin-right: 10px;
+}
